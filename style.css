@@ -1,7 +1,39 @@
 
+
+
+
+ body {
+      background-color: rgb(85, 150, 117);
+      padding: 50px;
+      border:20px solid blac;
+      
+    }
+    
     h1 {
-      color: darkblue;
+      color:red;
       text-align: center;
     }
 
-  
+  img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  }
+  p {
+    font-family: 'Georgia', serif; /* Changer la police */
+      font-size: 18px;               /* Taille du texte */
+      color: #333333;   
+      text-align: center;
+}
+    li {
+     color:orangered;
+    font-size: 18px;
+    margin-bottom: 10px ;
+    text-align: center;
+    font-size:18px;
+  }
+    ul {
+      list-style-type: none; /* enlève les puces */
+    }
+    
